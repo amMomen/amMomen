@@ -11,7 +11,7 @@
 ```javascript
 function me(target) {
   const data = {
-    FirstName: "Amir Hosseyn",
+    FirstName: "Amir Hossein",
     LastName: "Momen",
     Age: 18,
     Country: "IRAN",
